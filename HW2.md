@@ -14,4 +14,8 @@
 |**10**|使用者訓練|20|7,8|
 |**11**|使用者測試|25|9,10|
 ***
-
+### (1)PERT/CPM
+![fig](PERT.CPM.png "PERT.CPM")
+#
+### (2)GANTT
+![fig](GANTT.png "GANTT")
